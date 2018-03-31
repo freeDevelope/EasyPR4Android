@@ -1,0 +1,2 @@
+# EasyPR4Android
+将EasyPR车牌识别工程移植到Android平台上，基于Android Studio实现了一个车牌识别的demo。
